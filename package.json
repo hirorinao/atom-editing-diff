@@ -1,7 +1,7 @@
 {
   "name": "editing-diff",
   "main": "./lib/editing-diff",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Marks lines in the editor gutter that have been added, edited, or deleted",
   "keywords": [
     "diff",
