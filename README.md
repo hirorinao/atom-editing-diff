@@ -12,11 +12,11 @@ Marks lines in the editor gutter that have been added, edited, or deleted since 
 
 ## Preview
 edit
-![screenshot-modify](screenshot-modify.gif)
+![screenshot](https://raw.githubusercontent.com/hirorinao/atom-editing-diff/master/screenshot-modify.gif)
 move
-![screenshot-move](screenshot-move.gif)
+![screenshot](https://raw.githubusercontent.com/hirorinao/atom-editing-diff/master/screenshot-move.gif)
 list
-![screenshot-list](screenshot-list.gif)
+![screenshot](https://raw.githubusercontent.com/hirorinao/atom-editing-diff/master/screenshot-list.gif)
 
 ## Keymaps
 - `ctrl-up`   to move the cursor to the previous diff in the editor  
