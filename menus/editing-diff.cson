@@ -1,0 +1,13 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Editing Diff'
+      'submenu': [
+        { 'label': 'Move to Next Diff', 'command': 'editing-diff:move-to-next-diff' }
+        { 'label': 'Move to Previous Diff', 'command': 'editing-diff:move-to-previous-diff' }
+        { 'label': 'Toggle Diff List', 'command': 'editing-diff:toggle-diff-list' }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+'atom-workspace':
+  'ctrl-down' : 'editing-diff:move-to-next-diff'
+  'ctrl-up'   : 'editing-diff:move-to-previous-diff'
+  'ctrl-d'    : 'editing-diff:toggle-diff-list'
