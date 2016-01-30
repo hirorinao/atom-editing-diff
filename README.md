@@ -27,7 +27,8 @@ list
 ...差分リストを表示
 
 ## Todo:
-- [ ]
+- [ ] git-diffと分離
+- [ ] git-diffのCSSと分離
 
 ## 参考
 [git-diff 0.57.0](https://atom.io/packages/git-diff) Function addition  
