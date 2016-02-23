@@ -12,6 +12,8 @@ class RepositoryFile extends Repository
       @emitter.emit 'did-change'
 
   getLineDiffs: ->
+    return null if not @editor.getBuffer().cachedDiskContents?
+
     diffs = jsdiff.diffLines(@editor.getBuffer().cachedDiskContents, @editor.getText())
 
     # GitRepository.getLineDiffs pattern
